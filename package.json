@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "marp src/index.md -o dist/index.html",
+    "build": "marp src/index.md -o www/index.html",
     "serve": "marp -s src"
   },
   "author": "",

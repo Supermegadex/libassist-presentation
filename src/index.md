@@ -11,24 +11,53 @@ class:
 # LibAssist
 ### A New Way to Doc.
 
-![bg right 50%](logo.png)
+![bg right 50%](https://github.com/Supermegadex/libassist-client/raw/master/assets/logo.png)
 
 ---
 <!-- paginate: true -->
 
-# About Me
-* Senior at Creighton Preparatory School
-* Raikes cohort 2019
-* Front-End Developer for QuoteYa
-* 3 years professional experience
+# The Problem
 
-![bg right 50%](profile.png)
+**BAD DOCS**
 
 ---
 
 # The Problem
 
 **BAD DOCS**
+
+* [Marp](https://marpit.marp.app/)
+
+---
+
+# The Problem
+
+**BAD DOCS**
+
+* [Marp](https://marpit.marp.app/)
+* [Phaser](https://photonstorm.github.io/phaser3-docs/index.html)
+
+---
+
+# The Problem
+
+**BAD DOCS**
+
+* [Marp](https://marpit.marp.app/)
+* [Phaser](https://photonstorm.github.io/phaser3-docs/index.html)
+* [Java](https://docs.oracle.com/javase/7/docs/api/)
+
+---
+
+# What Does Good Documentation Have?
+* Human language
+* Organized intelligently
+* *Extensive* code examples
+
+---
+
+<!-- _class: - lead -->
+![bg 30%](https://github.com/Supermegadex/libassist-client/raw/master/assets/logo.png)
 
 ---
 
